@@ -1,13 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://sky-os-web.github.io/</loc></url>
-  <url><loc>https://sky-os-web.github.io/experience.html</loc></url>
-  <url><loc>https://sky-os-web.github.io/design.html</loc></url>
-  <url><loc>https://sky-os-web.github.io/roadmap.html</loc></url>
-  <url><loc>https://sky-os-web.github.io/alpha.html</loc></url>
-  <url><loc>https://sky-os-web.github.io/technology.html</loc></url>
-  <url><loc>https://sky-os-web.github.io/compatibility.html</loc></url>
-  <url><loc>https://sky-os-web.github.io/docs.html</loc></url>
-  <url><loc>https://sky-os-web.github.io/community.html</loc></url>
-  <url><loc>https://sky-os-web.github.io/download.html</loc></url>
+
+  <url>
+    <loc>https://sky-os.website/</loc>
+  </url>
+
+  <url>
+    <loc>https://sky-os.website/experience.html</loc>
+  </url>
+
+  <url>
+    <loc>https://sky-os.website/design.html</loc>
+  </url>
+
+  <url>
+    <loc>https://sky-os.website/roadmap.html</loc>
+  </url>
+
+  <url>
+    <loc>https://sky-os.website/alpha.html</loc>
+  </url>
+
+  <url>
+    <loc>https://sky-os.website/technology.html</loc>
+  </url>
+
+  <url>
+    <loc>https://sky-os.website/compatibility.html</loc>
+  </url>
+
+  <url>
+    <loc>https://sky-os.website/docs.html</loc>
+  </url>
+
+  <url>
+    <loc>https://sky-os.website/community.html</loc>
+  </url>
+
+  <url>
+    <loc>https://sky-os.website/download.html</loc>
+  </url>
+
+  <url>
+    <loc>https://sky-os.website/release.html</loc>
+  </url>
+
 </urlset>
