@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sky-os-web.github.io/sitemap.xml
+Sitemap: https://sky-os.website/sitemap.xml
